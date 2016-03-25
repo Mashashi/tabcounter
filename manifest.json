@@ -1,0 +1,16 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "eventpage.js" ]
+   },
+   "icons": {
+      "16": "tabnum.png"
+   },
+   //"key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC0E88P2thvUMrQKqeGtdUuiOHgiRLo9TVDAENLYskbKAFAND2X5YcT5h4kyxoECH0qE9kh33BqL/R1WgUymbd9xr99WCm25qMlkBYZRrJxycNJxVOpXI4p4uRwyXIFND/VDWRieRF7rxtFGBpRgxNTqwZEXbzI56lpmZokvxjdywIDAQAB",
+   "manifest_version": 2,
+   "name": "Tab Number",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   //"update_url": "http://clients2.google.com/service/update2/crx",
+   "update_url": "http://localhost",
+   "version": "2"
+}
